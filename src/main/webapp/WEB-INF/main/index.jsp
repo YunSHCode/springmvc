@@ -11,6 +11,7 @@
 	<hr/>
 	<h2><a href="/springmvc/getdata">Jenkins로 아이템 생성 - Shell 실행</a></h2>
 	<h2><a href="/springmvc/gugu">Jenkins로 빌드와 배포를 자동화</a></h2>
+	<h2><a href="/springmvc/gugu">Jenkins로 github변경시 자동 빌드</a></h2>
 </body>
 </html>
 
